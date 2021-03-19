@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" group-title="Undefined",Palestine Satellite Channel,Palestine Sattelite Channel
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/etAe2P5.png" group-title="Undefined",Musawa
+https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Undefined",An-Najah Nbc
+https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/VBOn2MH.png" group-title="Undefined",Raya TV
+http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer 1
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIxIDg6NTM6MjIgQU0maGFzaF92YWx1ZT1neVNMUzEyK2pVTjdpT1l3RERkVEVRPT0mdmFsaWRtaW51dGVzPTE4MCZpZD0wYWUzN2Y0YTJiMDMyMjU3MWJmNmQyZGViNWNjM2YzNA==
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/a7t9oDd.png" group-title="Undefined",Makan
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/sARtHKs.jpg" group-title="Undefined",Palestine EDU
+http://93.184.1.247:8080/Paestin_Edu/index.m3u8
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/oAIfhLt.png" group-title="News",Rotana KIDS
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=48&s=1611848335&e=1611934735&cf=1611934735&h=a69b648e6571cb174cd993ff8d54c0af
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Undefined",AE | Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/zw5CY1j.jpg" group-title="Undefined",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Undefined",Ro'ya TV,ROYA TV
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PFHvn86.jpg" group-title="Undefined",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/uPb48wR.jpg" group-title="Undefined",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/6N6kChM.jpg" group-title="Undefined",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/guHFJyC.jpg" group-title="Undefined",On E
+http://bathawy.site:8080/live/Qp8nIX5Mws/E43m1byQDq/23.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/setrIPD.png" group-title="Undefined",CBC
+http://bathawy.site:8080/live/Qp8nIX5Mws/E43m1byQDq/27.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ULdmI52.png" group-title="Undefined",DMC
+http://bathawy.site:8080/live/Qp8nIX5Mws/E43m1byQDq/64.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YNW8mtQ.jpg" group-title="Movies",MBC Max HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YxelwBp.jpg" group-title="Movies",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/XIsgJ78.jpg" group-title="Entertainment",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://i.imgur.com/juHtpGw.jpg" group-title="Undefined",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Undefined",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/68gLOJd.jpg" group-title="Undefined",Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/PvwAe8D.jpg" group-title="Undefined",Al Khalij
+http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/g8PKws6.jpg" group-title="News",Sky News Arabiya
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KE7pqAB.jpg" group-title="News",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/Id2jbQR.jpg" group-title="News",RT ِArabic
+http://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Wx4LA2T.jpg" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8JxwK60.jpg" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/wOTGmeW.png" group-title="Undefined",DW Arabi
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/k2IDyvk.jpg" group-title="Undefined",Alaraby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="General",Al Sharq
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/kGopxNP.jpg" group-title="Undefined",Mekameleen TV
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="Undefined",Al Aan TV
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/E8Kaf4k.jpg" group-title="General",CNBC Arbaia
+https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8?p=47&s=1615577636&e=1615664036&cf=1615664036&h=18980b6dd8445182f315f4b341d564b0
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/qC14JrP.jpg[" group-title="Undefined",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/bYz6HUG.png" group-title="Undefined",Palestine Mubasher
+https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="" group-title="Religious",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Undefined",Al Quran Al Kareem (Mecca),Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="Religious",Watan
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
+#EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/eqdEOUd.jpg" group-title="Undefined",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/Pcbn8fx.jpg.jpg" group-title="Undefined",Alqsa
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/vlBGsKP.jpg" group-title="Undefined",Palestine Today
+https://live.paltoday.tv/paltv/live/playlist.m3u8
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Undefined",Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/RgSR06t.jpg" group-title="Undefined",Wattan TV
+http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Undefined",Al Jazeera Documentary,QA | Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/RdksvQA.jpg" group-title="Undefined",Citruss TV,CITRUSS TV
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
