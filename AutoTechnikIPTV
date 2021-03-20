@@ -7,8 +7,8 @@ https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/VBOn2MH.png" group-title="Undefined",Raya TV
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer 1
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIxIDg6NTM6MjIgQU0maGFzaF92YWx1ZT1neVNMUzEyK2pVTjdpT1l3RERkVEVRPT0mdmFsaWRtaW51dGVzPTE4MCZpZD0wYWUzN2Y0YTJiMDMyMjU3MWJmNmQyZGViNWNjM2YzNA==
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/a7t9oDd.png" group-title="Undefined",Makan
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/sARtHKs.jpg" group-title="Undefined",Palestine EDU
@@ -101,9 +101,9 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="Religious",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer 2
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
-#EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/eqdEOUd.jpg" group-title="Undefined",Ajyal TV
+#EXTINF:0 
+
+#EXTINF:0 tvg-country="MY;PS" tvg-logo="htts://i.imgur.com/eqdEOUd.jpg" group-title="Undefined",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
