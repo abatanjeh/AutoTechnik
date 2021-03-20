@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" group-title="Undefined",Palestine Satellite Channel,Palestine Sattelite Channel
-https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+https://pb.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/etAe2P5.png" group-title="Undefined",Musawa
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Undefined",An-Najah Nbc
