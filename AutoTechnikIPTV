@@ -9,6 +9,18 @@ https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/u48XEZx.jpg" group-title="Undefined",Maannews
+http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/RgSR06t.jpg" group-title="Undefined",Wattan TV
+http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/vlBGsKP.jpg" group-title="Undefined",Palestine Today
+https://live.paltoday.tv/paltv/live/playlist.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/Pcbn8fx.jpg.jpg" group-title="Undefined",Alqsa
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/hiTHRb6.png" group-title="Undefined",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/a7t9oDd.png" group-title="Undefined",Makan
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/sARtHKs.jpg" group-title="Undefined",Palestine EDU
@@ -103,20 +115,15 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="MY;PS" tvg-logo="htts://i.imgur.com/eqdEOUd.jpg" group-title="Undefined",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/Pcbn8fx.jpg.jpg" group-title="Undefined",Alqsa
-https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/vlBGsKP.jpg" group-title="Undefined",Palestine Today
-https://live.paltoday.tv/paltv/live/playlist.m3u8
+
+
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Undefined",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/RgSR06t.jpg" group-title="Undefined",Wattan TV
-http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV
-https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Undefined",Al Jazeera Documentary,QA | Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/RdksvQA.jpg" group-title="Undefined",Citruss TV,CITRUSS TV
