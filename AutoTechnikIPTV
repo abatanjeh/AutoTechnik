@@ -113,17 +113,10 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="Religious",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8?checkedby:iptvcat.com
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
-
-
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Undefined",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-
-
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Undefined",Al Jazeera Documentary,QA | Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/RdksvQA.jpg" group-title="Undefined",Citruss TV,CITRUSS TV
