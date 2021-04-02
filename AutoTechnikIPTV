@@ -125,3 +125,5 @@ https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8?checkedby:iptvcat.co
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Icfepvd.jpg" group-title="Undefined",BeinSport 1
 https://tv.shahid.ps:8443/shahid-1/Sports1-HD/playlist.m3u8?213.244.116.243&wowzatokenendtime=1617391800&wowzatokenhash=_J_hhIfhtXsO5cgz7xTZvMXwmUoOi5nv8Z2HuFeZ48w3lpT_tt38aXFrDrJSbFoVKSQh8UOkFSBRX54-oiiidA==&wowzatokenstarttime=1617381000
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/I21tDjr.png" group-title="Undefined",BeinSport 2
+https://tv.shahid.ps:8443/shahid-1/Sports2-HD/playlist.m3u8?213.244.116.243&wowzatokenendtime=1617395100&wowzatokenhash=Ta4e0k9C3GI6smzEDyl2GuoGHBuEyOv_jrYmJwn0_PWbQqpWt2i3KCWpbTY8hMW6b2cXB647wTI8CPRJt2nndA==&wowzatokenstarttime=1617384300
