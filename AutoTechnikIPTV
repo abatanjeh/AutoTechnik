@@ -61,6 +61,10 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YxelwBp.jpg" group-title="Movies",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PKgLaGw.jpg" group-title="Movies",English Movies
+https://tv.shahid.ps:8443/shahid-2/Shahid-EN/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Qb0rLXd.jpg" group-title="Movies",Arabic Movies
+https://tv.shahid.ps:8443/shahid-3/Shahid-AR/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/XIsgJ78.jpg" group-title="Entertainment",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://i.imgur.com/juHtpGw.jpg" group-title="Undefined",MBC Iraq
