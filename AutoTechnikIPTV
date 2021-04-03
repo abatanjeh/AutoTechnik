@@ -127,7 +127,3 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/TyWgEVz.jpg" group-title="Undefined",BeinSport 1
-https://tv.shahid.ps:8443/shahid-1/Sports1-HD/playlist.m3u8?213.244.116.243&wowzatokenendtime=1617404520&wowzatokenhash=jCcWjGpgAdqguh0UMpexoAxJDnoVHEu9JS1obqcGnfM9x-U-b1eOuIUFDdcinTuJ5iIi_qdJ5OvNZyWIARvkAQ==&wowzatokenstarttime=1617393720
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/TyWgEVz.jpg" group-title="Undefined",BeinSport 2
-https://tv.shahid.ps:8443/shahid-1/Sports2-HD/playlist.m3u8?213.244.116.243&wowzatokenendtime=1617395100&wowzatokenhash=Ta4e0k9C3GI6smzEDyl2GuoGHBuEyOv_jrYmJwn0_PWbQqpWt2i3KCWpbTY8hMW6b2cXB647wTI8CPRJt2nndA==&wowzatokenstarttime=1617384300
