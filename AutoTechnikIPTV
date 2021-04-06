@@ -129,5 +129,5 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://imgur.com/a/S846fxO" group-title="Undefined",Hala Ramallah
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/5jgSSzT.png" group-title="Undefined",Hala Ramallah
 https://live.halaramallahtv.com:8443/HRamallah-Tv/HalaRamallah/playlist.m3u8
