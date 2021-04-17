@@ -36,8 +36,7 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/zw5CY1j.jpg" group-title="Undefined",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Undefined",Ro'ya TV,ROYA TV
-https://roya-live.ercdn.net/roya/roya_1080p.m3u8?st=WdQ9UbDbNrKPSYbCIbfwng&e=1618675458
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PFHvn86.jpg" group-title="Undefined",MBC 4
@@ -48,12 +47,7 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/6N6kChM.jpg" group-title="Undefined",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/guHFJyC.jpg" group-title="Undefined",On E
-http://bathawy.site:8080/live/Qp8nIX5Mws/E43m1byQDq/23.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/setrIPD.png" group-title="Undefined",CBC
-http://bathawy.site:8080/live/Qp8nIX5Mws/E43m1byQDq/27.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ULdmI52.png" group-title="Undefined",DMC
-http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/158
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YNW8mtQ.jpg" group-title="Movies",MBC Max HD
