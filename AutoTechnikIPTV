@@ -50,7 +50,7 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/guHFJyC.jpg" group-title="Undefined",On E
 http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/23.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ULdmI52.png" group-title="Undefined",DMC
-http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/36.m3u8
+http://89.34.96.62:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8?token=QkEKBxFeQAkSVlgMDAACAgRWAloCXAkJAFpeBlYEVAxbWgRVV1VSCwZBFRpGRhQEUVg5UVVGAgNTThpHR1YRZlAHQFxABUAfEhdQVVAQXFEcFxZRVUYCElVWAAsWH0FcQRcHFAxXDmxUBk9RVldEW15AClQdRldePAZdX1VdBxsDQVJEThQLQEBBA1ZAXgpNElcPTEMFTFVBWBoADAJXGxVBAQkXWBZBSUEDGmBhRE0SUB5MVApLWQwMGggWXlBMAUFORAtFPUFVEE1KUFMLBEIXXBoBRhQSDgNAbVdcDVdcABYPDVgREQpBCRoZEAsOXlwSV0M7SFkHQAIQBQdSDABBHw==
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YNW8mtQ.jpg" group-title="Movies",MBC Max HD
