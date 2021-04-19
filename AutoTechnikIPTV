@@ -6,7 +6,7 @@ https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Undefined",An-Najah Nbc
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/VBOn2MH.png" group-title="Undefined",Raya TV
-https://youtu.be/gjiKLS9sW0c
+http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/u48XEZx.jpg" group-title="Undefined",Maan news
@@ -39,8 +39,9 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/zw5CY1j.jpg" group-title="Undefined",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC
+#EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Undefined",Ro'ya TV,ROYA TV
+https://youtu.be/gjiKLS9sW0c
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PFHvn86.jpg" group-title="Undefined",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:iptvcat.com
