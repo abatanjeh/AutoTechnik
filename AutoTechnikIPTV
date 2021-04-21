@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" group-title="Undefined",Palestine Satellite Channel,Palestine Sattelite Channel
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/bYz6HUG.png" group-title="Undefined",Palestine Mubasher
+https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/etAe2P5.png" group-title="Undefined",Musawa
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Undefined",An-Najah Nbc
@@ -9,8 +11,7 @@ https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/u48XEZx.jpg" group-title="Undefined",Maan news
-http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/RgSR06t.jpg" group-title="Undefined",Wattan TV
 http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/vlBGsKP.jpg" group-title="Undefined",Palestine Today
@@ -112,8 +113,7 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8?p=47&s=1615577636&e=1615664036&cf=1615664036&h=18980b6dd8445182f315f4b341d564b0
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/qC14JrP.jpg[" group-title="Undefined",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/bYz6HUG.png" group-title="Undefined",Palestine Mubasher
-https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="" group-title="Religious",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
