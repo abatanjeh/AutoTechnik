@@ -68,8 +68,10 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://tv.shahid.ps:8443/shahid-2/Shahid-EN/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Qb0rLXd.jpg" group-title="Movies",Arabic Movies
 https://tv.shahid.ps:8443/shahid-3/Shahid-AR/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/RZ8SvIZ.jpg" group-title="Movies",Melody Aflam
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/x21Zu8n.jpg" group-title="Movies",Melody Arabia
 http://ferrarich2.referrari.com:8080/live/98845_.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/RZ8SvIZ.jpg" group-title="Movies",Melody Aflam
+http://ferrarich2.referrari.com:8080/live/98841_.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/XIsgJ78.jpg" group-title="Entertainment",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://i.imgur.com/juHtpGw.jpg" group-title="Undefined",MBC Iraq
