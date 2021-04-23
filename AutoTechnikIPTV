@@ -56,6 +56,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/23.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ULdmI52.png" group-title="Undefined",DMC
 http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/setrIPD.png" group-title="Undefined",CBC
+http://89.34.96.62:8080/live/Pts70pyNDI/5tu2SBi2nJ/27.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YNW8mtQ.jpg" group-title="Movies",MBC Max HD
