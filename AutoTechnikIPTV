@@ -10,7 +10,7 @@ https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/VBOn2MH.png" group-title="Undefined",Raya TV
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/u48XEZx.jpg" group-title="Undefined",Maan news
-http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+http://192.34.153.36:7777/MixTV_HD.m3u8?user=sgls540839&session=87e48ef702f34f0b022d9b4ae4f60b56978ddd3793a6a1eab8a2e8a15eda61687c0f8772c4f2024f
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
 
