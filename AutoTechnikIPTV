@@ -9,6 +9,8 @@ https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/VBOn2MH.png" group-title="Undefined",Raya TV
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/u48XEZx.jpg" group-title="Undefined",Maan news
+http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
 
