@@ -27,7 +27,7 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/a7t9oDd.png" group-title="Undefined",Makan
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="Undefined",Al Aan TV
-https://stream-02.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xuq8LWUuAegMEY9AQGKk6yE)/dm/3/x74wje5/s/live-3.m3u8
+https://stream-07.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xiPPuC-YZBzdzWEOQyx0eNY)/dm/3/x74wje5/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/sARtHKs.jpg" group-title="Undefined",Palestine EDU
 http://93.184.1.247:8080/Paestin_Edu/index.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/oAIfhLt.png" group-title="News",Rotana KIDS
