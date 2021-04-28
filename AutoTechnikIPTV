@@ -30,6 +30,8 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="Undefined",Al Aan TV
 https://stream-07.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xiPPuC-YZBzdzWEOQyx0eNY)/dm/3/x74wje5/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="Undefined",Al Hiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/sARtHKs.jpg" group-title="Undefined",Palestine EDU
 http://93.184.1.247:8080/Paestin_Edu/index.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/oAIfhLt.png" group-title="News",Rotana KIDS
@@ -42,6 +44,8 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/QggDXvm.jpg" group-title="Undefined",CBeebies
+http://51.52.156.22:8888/http/003
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/zw5CY1j.jpg" group-title="Undefined",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/kYDlPoF.png" group-title="Undefined",arirang
@@ -62,8 +66,10 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/23.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ULdmI52.png" group-title="Undefined",DMC
 http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8
-
-
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7m6cKF1.jpg" group-title="Undefined",LBC international
+http://93.184.1.247/LBC-International/index.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/e8OXA28.gif" group-title="Undefined",LBC
+https://hiplayer.hibridcdn.net/p/rotana-lbc
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YNW8mtQ.jpg" group-title="Movies",MBC Max HD
@@ -135,6 +141,10 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Undefined",Al Quran Al Kareem (Mecca),Quran
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/rLiv43Q.jpg" group-title="Undefined",sunnah TV
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/6e5dEDZ.jpg" group-title="Undefined",Kaifa
+http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/YExJNz7.jpg" group-title="Undefined",Nojom TV
@@ -147,3 +157,7 @@ https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8?checkedby:iptvcat.co
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Undefined",Al Jazeera Documentary,QA | Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/DcMSIJm.png" group-title="Undefined",People are Awesome
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hcTfBQ7.jpg" group-title="Undefined",Travelxp
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
