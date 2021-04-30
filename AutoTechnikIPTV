@@ -116,7 +116,7 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KE7pqAB.jpg" group-title="News",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://imgur.com/FbA4zSx" group-title="News",AsharqNews
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FbA4zSx.png" group-title="News",AsharqNews
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master-1080.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/Id2jbQR.jpg" group-title="News",RT ِArabic
 http://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
