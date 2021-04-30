@@ -94,6 +94,8 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Undefined",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://i.imgur.com/gVfKxhH.jpg" group-title="Undefined",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/68gLOJd.jpg" group-title="Undefined",Amman TV
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/TMWr56N.png" group-title="Undefined",almamlka
