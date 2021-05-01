@@ -28,8 +28,8 @@ https://live.halaramallahtv.com:8443/HRamallah-Tv/HalaRamallah/playlist.m3u8
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/a7t9oDd.png" group-title="Undefined",Makan
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="Undefined",Alan tv
-https://www.dailymotion.com/cdn/live/video/x74wje5.m3u8?sec=6vDOzJAMj1BvF7NGXtHfmI_NkByZmN-V8aCnh_fCLeLh0KtVoJA4Ov4IDgHfqjcz
+
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="Undefined",Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/sARtHKs.jpg" group-title="Undefined",Palestine EDU
@@ -84,10 +84,10 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://tv.shahid.ps:8443/shahid-2/Shahid-EN/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Qb0rLXd.jpg" group-title="Movies",Arabic Movies
 https://tv.shahid.ps:8443/shahid-3/Shahid-AR/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/x21Zu8n.jpg" group-title="Movies",Melody Arabia
-http://ferrarich2.referrari.com:8080/live/98845_.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/RZ8SvIZ.jpg" group-title="Movies",Melody Aflam
-http://ferrarich2.referrari.com:8080/live/98841_.m3u8
+
+
+
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/XIsgJ78.jpg" group-title="Entertainment",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://i.imgur.com/juHtpGw.jpg" group-title="Undefined",MBC Iraq
@@ -110,8 +110,8 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/0uiJr2T.png" group-title="News",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/lBStq00.jpg" group-title="News",Bein Sport News
-https://youtu.be/0Y-IRcUJi6o
+
+
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/g8PKws6.jpg" group-title="News",Sky News Arabiya
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya
