@@ -148,8 +148,8 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Undefined",Al Quran Al Kareem (Mecca),Quran
+http://test.satlok.club:80/live/Amigo/do92Rd6x8yr3/2529.m3u8
 
-https://cllive.itworkscdn.net:443/ksaquranlive/token=nva=1619894138~dirs=1~hash=01b140953dc8562fd3984/ksaquran.smil/ksaquran_chunks.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/rLiv43Q.jpg" group-title="Undefined",sunnah TV
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/6e5dEDZ.jpg" group-title="Undefined",Kaifa
