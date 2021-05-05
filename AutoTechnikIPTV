@@ -69,7 +69,7 @@ http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7m6cKF1.jpg" group-title="Undefined",LBC international
 http://93.184.1.247/LBC-International/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/e8OXA28.gif" group-title="Undefined",LBC
-https://hiplayer.hibridcdn.net/p/rotana-lbc
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/54158
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/SHY7smo.jpg" group-title="Undefined",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
@@ -147,8 +147,8 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Undefined",Al Quran Al Kareem (Mecca),Quran
-http://test.satlok.club:80/live/Amigo/do92Rd6x8yr3/2529.m3u8
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/voeCe57.jpg" group-title="Undefined",Al Quran Al Kareem (Mecca),Quran
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/rLiv43Q.jpg" group-title="Undefined",sunnah TV
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
@@ -170,22 +170,13 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hcTfBQ7.jpg" group-title="Undefined",Travelxp
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/tIBVWeP.png" group-title="Undefined",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/VYiG1Ad.png" group-title="Undefined",Quran
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
 
 https://nrpus.bozztv.com/36bay2/gusa-slaptech/index.m3u8
 
 http://s02.diazol.hu:10192/hls/stream.m3u8
 
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-
-http://test.satlok.club:80/live/Amigo/do92Rd6x8yr3/2554.m3u8
-
-
-http://test.satlok.club:80/live/Amigo/do92Rd6x8yr3/11941.m3u8
-
-http://test.satlok.club:80/live/Amigo/do92Rd6x8yr3/38853.m3u8
