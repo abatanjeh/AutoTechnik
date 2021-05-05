@@ -64,6 +64,8 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/guHFJyC.jpg" group-title="Undefined",On E
 http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/23.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/setrIPD.png" group-title="Undefined",CBC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/54158
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ULdmI52.png" group-title="Undefined",DMC
 http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7m6cKF1.jpg" group-title="Undefined",LBC international
@@ -148,7 +150,7 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/voeCe57.jpg" group-title="Undefined",Al Quran Al Kareem (Mecca),Quran
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2066488187.m3u8
 
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/rLiv43Q.jpg" group-title="Undefined",sunnah TV
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
