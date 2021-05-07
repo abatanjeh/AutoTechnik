@@ -49,8 +49,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 http://51.52.156.22:8888/http/003
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/zw5CY1j.jpg" group-title="Undefined",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/kYDlPoF.png" group-title="Undefined",arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Undefined",Ro'ya TV,ROYA TV
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC 1
@@ -168,6 +167,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hcTfBQ7.jpg" group-title="Undefined",Travelxp
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/kYDlPoF.png" group-title="Undefined",arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/YExJNz7.jpg" group-title="Undefined",Nojom TV
@@ -178,7 +179,6 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/2614
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/o7DPxI1.png" group-title="Undefined",TikTok
 http://cdn.tvmatic.net/tiktok.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-slaptech/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Undefined",Music Plus
 http://s02.diazol.hu:10192/hls/stream.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/1l5LCTS.png" group-title="Undefined",My Music
