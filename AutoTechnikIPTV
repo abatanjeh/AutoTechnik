@@ -35,8 +35,6 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="Undefined",Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/oAIfhLt.png" group-title="News",Rotana KIDS
-https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=48&s=1611848335&e=1611934735&cf=1611934735&h=a69b648e6571cb174cd993ff8d54c0af
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Undefined",AE | Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
