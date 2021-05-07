@@ -179,9 +179,6 @@ https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://cdn.tvmatic.net/tiktok.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Undefined",Music Plus
 http://s02.diazol.hu:10192/hls/stream.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/1l5LCTS.png" group-title="Undefined",My Music
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2248
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/vO5VEmD.jpg" group-title="Undefined",MTV Music
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/56555
+
 
 
