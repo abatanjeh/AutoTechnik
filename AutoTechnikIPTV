@@ -144,7 +144,8 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/VYiG1Ad.png" group-title="Undefined",Quran
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
-
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/voeCe57.jpg" group-title="Undefined",Quran Mecca
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/rLiv43Q.jpg" group-title="Undefined",sunnah TV
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/6e5dEDZ.jpg" group-title="Undefined",Kaifa
