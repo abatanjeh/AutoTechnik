@@ -9,7 +9,8 @@ https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 http://vstream3.hadara.ps:8081/hrHD_web/web1/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/2PNtErO.png" group-title="Undefined",Audeh
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
-
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/u48XEZx.jpg" group-title="Undefined",Maan news
+http://htvmada.mada.ps:8888/maannews/index.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Undefined",An-Najah Nbc
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/VBOn2MH.png" group-title="Undefined",Raya TV
