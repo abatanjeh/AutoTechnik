@@ -174,7 +174,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hcTfBQ7.jpg" group-title="Undefined",Travelxp
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Rc02fVE.jpg" group-title="Undefined",Covid-19 INFO
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Rc02fVE.jpg" group-title="Undefined",CoviCovidd-19 INFO
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/38865
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/kYDlPoF.png" group-title="Undefined",arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -182,8 +182,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/YExJNz7.jpg" group-title="Undefined",Nojom TV
 http://51.210.199.41/hls/stream.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9BXA7G0.png" group-title="Undefined",Rotana Music
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2614
+
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/DcMSIJm.png" group-title="Undefined",People are Awesome
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/o7DPxI1.png" group-title="Undefined",TikTok
@@ -191,8 +191,8 @@ http://cdn.tvmatic.net/tiktok.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Undefined",Music Plus
 http://s02.diazol.hu:10192/hls/stream.m3u8
 
-https://alfajervod2.hadara.ps:8443/vodAlfajerApp/aseries/Al-Maddah_S01/Al-Maddah_S01_Ep20.mp4
-https://alfajervod2.hadara.ps:8443/vodAlfajerApp/aseries/Al-Maddah_S01/Al-Maddah_S01_Ep21.mp4
+
+
 
 
 
