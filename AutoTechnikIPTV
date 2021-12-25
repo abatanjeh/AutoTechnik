@@ -56,7 +56,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Undefined",Ro'ya TV,ROYA TV
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC 1
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:iptvcat.com
+https://livestreams.tooli-tv.com:443/live/149009_2.m3u8?session=&location=
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PFHvn86.jpg" group-title="Undefined",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama
