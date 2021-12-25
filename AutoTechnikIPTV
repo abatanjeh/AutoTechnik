@@ -114,7 +114,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/wOTGmeW.png" group-title="Undefined",DW Arabi
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/k2IDyvk.jpg" group-title="Undefined",Alaraby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="General",Al Sharq
