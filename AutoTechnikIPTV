@@ -110,7 +110,7 @@ http://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Wx4LA2T.jpg" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8JxwK60.jpg" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/wOTGmeW.png" group-title="Undefined",DW Arabi
