@@ -118,7 +118,7 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/k2IDyvk.jpg" group-title="Undefined",Alaraby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="General",Al Sharq
-https://list.iptvcat.com/my_list/s/a7733afbef63f53eaf1a7960230fcecf.m3u8
+https://mn-nl.mncdn.com:443/elsharq_live/live/chunklist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/kGopxNP.jpg" group-title="Undefined",Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/E8Kaf4k.jpg" group-title="General",CNBC Arbaia
