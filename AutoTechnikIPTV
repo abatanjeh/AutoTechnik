@@ -106,7 +106,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:i
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FbA4zSx.png" group-title="News",AsharqNews
 https://bcovlive-a.akamaihd.net/b5239bbefb7a486f9a771c58438bc338/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/Id2jbQR.jpg" group-title="News",RT ِArabic
-http://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8?v=3164726845
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Wx4LA2T.jpg" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8JxwK60.jpg" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic
