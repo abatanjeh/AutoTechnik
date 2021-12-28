@@ -21,8 +21,7 @@ https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/YeluYx2.jpg" group-title="Undefined",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ruj5t6k.jpg" group-title="Undefined", Bethlahem TV
-http://live.btv2020.com:1935/live/btv/playlist.m3u8?v=3164726889
+
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/HHYNr7v.png" group-title="Undefined",Alfajer
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1MUjlaNWxYeXBoWmpQK0lnL3Rpc2RBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0w
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/RgSR06t.jpg" group-title="Undefined",Wattan TV
