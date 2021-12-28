@@ -104,7 +104,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedb
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KE7pqAB.jpg" group-title="News",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FbA4zSx.png" group-title="News",AsharqNews
-https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master-1080.m3u8
+https://bcovlive-a.akamaihd.net/b5239bbefb7a486f9a771c58438bc338/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/Id2jbQR.jpg" group-title="News",RT ِArabic
 http://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Wx4LA2T.jpg" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
@@ -118,7 +118,7 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/k2IDyvk.jpg" group-title="Undefined",Alaraby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="General",Al Sharq
-https://bcovlive-a.akamaihd.net/b5239bbefb7a486f9a771c58438bc338/ap-south-1/6203311941001/playlist.m3u8
+https://list.iptvcat.com/my_list/s/a7733afbef63f53eaf1a7960230fcecf.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/kGopxNP.jpg" group-title="Undefined",Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/E8Kaf4k.jpg" group-title="General",CNBC Arbaia
