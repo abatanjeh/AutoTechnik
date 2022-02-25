@@ -32,10 +32,6 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/hiTHRb6.png" group-title="Undefined",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/7tyFhBQ.jpg" group-title="Undefined",falastini
-http://163.172.172.72/palestiniantv/abr/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/5jgSSzT.png" group-title="Undefined",Hala Ramallah
-https://live.halaramallahtv.com:8443/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/a7t9oDd.png" group-title="Undefined",Makan
@@ -103,7 +99,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedb
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KE7pqAB.jpg" group-title="News",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FbA4zSx.png" group-title="News",AsharqNews
-https://bcovlive-a.akamaihd.net/b5239bbefb7a486f9a771c58438bc338/ap-south-1/6203311941001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/Id2jbQR.jpg" group-title="News",RT ِArabic
 https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8?v=3164726845
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Wx4LA2T.jpg" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
@@ -132,8 +128,6 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/voeCe57.jpg" group-title="Undefined",Quran Mecca
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/rLiv43Q.jpg" group-title="Undefined",sunnah TV
-https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/6e5dEDZ.jpg" group-title="Undefined",Kaifa
 http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Undefined",Al Manar
@@ -146,24 +140,12 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?chec
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/tIBVWeP.png" group-title="Undefined",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hcTfBQ7.jpg" group-title="Undefined",Travelxp
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Rc02fVE.jpg" group-title="Undefined",CoviCovidd-19 INFO
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/38865
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/kYDlPoF.png" group-title="Undefined",arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/YExJNz7.jpg" group-title="Undefined",Nojom TV
-http://51.210.199.41/hls/stream.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/DcMSIJm.png" group-title="Undefined",People are Awesome
-https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/o7DPxI1.png" group-title="Undefined",TikTok
-http://cdn.tvmatic.net/tiktok.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Undefined",Music Plus
 http://s02.diazol.hu:10190/stream.m3u8
-
-https://broadcast.mytvtogo.net/pcenmusic/pcenmusic/playlist.m3u8
 
 
 
