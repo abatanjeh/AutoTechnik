@@ -36,7 +36,7 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/a7t9oDd.png" group-title="Undefined",Makan
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="Undefined",Al Hiwar TV
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="News",Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Undefined",AE | Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -66,7 +66,7 @@ https://freedemo1.xyz:2083/live/7zvSS3VrpRbR/BSFQTccn8nWt/47.m3u8
 http://62.210.248.192:25461/load/tnco3r8b1pl/7592.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/e8OXA28.gif" group-title="Undefined",LBC
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/SHY7smo.jpg" group-title="Undefined",Syria TV
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/SHY7smo.jpg" group-title="News",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
 https://freedemo1.xyz:2083/live/7zvSS3VrpRbR/BSFQTccn8nWt/105.m3u8
@@ -106,15 +106,15 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/wOTGmeW.png" group-title="Undefined",DW Arabi
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/wOTGmeW.png" group-title="News",DW Arabi
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/k2IDyvk.jpg" group-title="Undefined",Alaraby
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/k2IDyvk.jpg" group-title="News",Alaraby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="General",Al Sharq
 https://mn-nl.mncdn.com:443/elsharq_live/live/chunklist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/kGopxNP.jpg" group-title="Undefined",Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/E8Kaf4k.jpg" group-title="General",CNBC Arbaia
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/E8Kaf4k.jpg" group-title="News",CNBC Arbaia
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8?p=47&s=1615577636&e=1615664036&cf=1615664036&h=18980b6dd8445182f315f4b341d564b0
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/qC14JrP.jpg[" group-title="Undefined",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
