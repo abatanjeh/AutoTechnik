@@ -43,7 +43,7 @@ https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?chec
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/yavHE5g.jpg" group-title="Undefined",gulli
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/zw5CY1j.jpg" group-title="Undefined",Spacetoon
@@ -65,11 +65,11 @@ https://freedemo1.xyz:2083/live/7zvSS3VrpRbR/BSFQTccn8nWt/47.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/mKwYMrI.jpg" group-title="Undefined",DMC
 http://62.210.248.192:25461/load/tnco3r8b1pl/7592.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/e8OXA28.gif" group-title="Undefined",LBC
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+http://zinachannels.zinamedia.net/ar-s/lbc-internatonal/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/SHY7smo.jpg" group-title="News",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
-https://freedemo1.xyz:2083/live/7zvSS3VrpRbR/BSFQTccn8nWt/105.m3u8
+http://zinachannels.zinamedia.net/ar-s/mbc-2/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YNW8mtQ.jpg" group-title="Movies",MBC Max HD
 https://livestreams.tooli-tv.com/live/149015_.m3u8?session=
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
@@ -89,7 +89,7 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/PvwAe8D.jpg" group-title="Undefined",Al Khalij
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/0uiJr2T.png" group-title="News",CNN
-https://1439734486.rsc.cdn77.org/yJ3m3Z5ANBX45Nax3I74bQ==,1645818597/1439734486/index.m3u8
+http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/g8PKws6.jpg" group-title="News",Sky News Arabiya
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya
@@ -99,13 +99,13 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:i
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FbA4zSx.png" group-title="News",AsharqNews
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/Id2jbQR.jpg" group-title="News",RT ِArabic
-https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8?v=3164726845
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Wx4LA2T.jpg" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8JxwK60.jpg" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/wOTGmeW.png" group-title="News",DW Arabi
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/k2IDyvk.jpg" group-title="News",Alaraby
@@ -123,8 +123,8 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/VYiG1Ad.png" group-title="Undefined",Quran
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/voeCe57.jpg" group-title="Undefined",Quran Mecca
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/voeCe57.jpg" group-title="Undefined",Quran Bahrain
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/6e5dEDZ.jpg" group-title="Undefined",Kaifa
 http://82.212.74.2:8000/live/hls/7311.m3u8
