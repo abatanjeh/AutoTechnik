@@ -39,7 +39,7 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="News",Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Undefined",AE | Majid TV
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/yavHE5g.jpg" group-title="Undefined",gulli
