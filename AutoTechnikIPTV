@@ -144,18 +144,4 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Undefined",Music Plus
 http://s02.diazol.hu:10190/stream.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/gYmdjdc.png" group-title="Undefined",House of the dragon
-#EXTINF:0 tvg-country="QA" tvg-logo="https://imgur.com/a/WjC08H2" group-title="News",t15
-https://up.ifruplink.net/pool/pub/b3/fb/55/377e77dbedf62f0407e21f4493b3fb55/164090953?token=15331249168da5b6ec20ab84c13d8e4c&ts=1671124548&ht=video/mp4
-#EXTINF:0 tvg-country="QA" tvg-logo="https://imgur.com/a/WjC08H2" group-title="News",t16
-https://up.ifruplink.net/pool/pub/ba/1a/32/01b37681cb669a6f2a8713be0aba1a32/182052828?token=8eb408df4b9738176906ee5ef611ee42&ts=1671124707&ht=video/mp4
-#EXTINF:0 tvg-country="QA" tvg-logo="https://imgur.com/a/WjC08H2" group-title="News",t17
-https://up.ifruplink.net/pool/pub/a9/46/81/ffc57e3d519da8e96bcb8b6647a94681/194857969?token=fa8cce365358d8844d328149244a4a72&ts=1671124827&ht=video/mp4
-#EXTINF:0 tvg-country="QA" tvg-logo="https://imgur.com/a/WjC08H2" group-title="News",t18
-https://up.ifruplink.net/pool/pub/9d/a1/e5/8789b1727574d97db25c4b543c9da1e5/190390786?token=f80bee3f18b7aed8c2db026fdfd3a675&ts=1671124867&ht=video/mp4
-#EXTINF:0 tvg-country="QA" tvg-logo="https://imgur.com/a/WjC08H2" group-title="News",t19
-https://up.ifruplink.net/pool/pub/61/08/19/4d7a48b24d14f2e97c30ded396610819/188373607?token=4b9dede516dce6aee7c2130da04560ff&ts=1671125710&ht=video/mp4
-#EXTINF:0 tvg-country="QA" tvg-logo="https://imgur.com/a/WjC08H2" group-title="News",t20
-https://up.ifruplink.net/pool/pub/f6/5f/31/c6f5e6ae4b4b31aed9c0d14c89f65f31/168486983?token=044ec9c871cb7ae433627745962668a6&ts=1671125753&ht=video/mp4
-#EXTINF:0 tvg-country="QA" tvg-logo="https://imgur.com/a/WjC08H2" group-title="News",t21
-https://up.ifruplink.net/pool/pub/e9/7b/df/6a955b0b0cd000e720aac4d5b7e97bdf/204018740?token=75789392273134ed7d71a8569b09fd1e&ts=1671125788&ht=video/mp4
+
