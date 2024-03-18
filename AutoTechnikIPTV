@@ -69,7 +69,7 @@ http://62.210.248.192:25461/load/tnco3r8b1pl/7592.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/e8OXA28.gif" group-title="Undefined",LBC
 http://zinachannels.zinamedia.net/ar-s/lbc-internatonal/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/SHY7smo.jpg" group-title="News",Syria TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PrzMr8F.jpg" group-title="Movies",MBC 2 HD
 http://zinachannels.zinamedia.net/ar-s/mbc-2/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YNW8mtQ.jpg" group-title="Movies",MBC Max HD
