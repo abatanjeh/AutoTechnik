@@ -36,8 +36,6 @@ https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/zw5CY1j.jpg" group-title="Undefined",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Undefined",Ro'ya TV,ROYA TV
@@ -46,8 +44,6 @@ https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PFHvn86.jpg" group-title="Undefined",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/uPb48wR.jpg" group-title="Undefined",MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/6N6kChM.jpg" group-title="Undefined",MBC Masr 2
