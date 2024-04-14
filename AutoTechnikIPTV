@@ -153,14 +153,9 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlis
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8?st=KXE522qfXUZ_ptuZfsG-HQ&e=1713109061
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",almashhad
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",DMC
-https://cdn1.ipslow.com/tv528_www.elahmad.com_dmc/index.m3u8?token=0253a754111e905ecf83e3fb8681905c482c91de-e3201e05a4dc3dfee69bb1b413cd2935-1713103833-1713093033
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",ON E
-https://cdn1.ipslow.com/tv528_www.elahmad.com_ontv/index.m3u8?token=5ade78959bf6bb319baa3ffbaf39150f063ffc46-09c244d72118668dd46cbe6d18e87417-1713103903-1713093103
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",CBC
-https://tv.ipslow.com/tv528_www.elahmad.com_cbc_tv/index.m3u8?token=25347a1407ec716045e98f8b535d54dad27cf03d-da70d5ccd89f6a3eef6ba6236c50b380-1713103973-1713093173
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",quran tv
-https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/playlist_dvr.m3u8?hdnts=exp=1713082937~acl=/ksaquranlive/ksaquran.smil/*~hmac=001b772978f399f2f364a1122d983cbe0d76de0edbeb1cf4afc384922895c09a
+https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/playlist_dvr.m3u8?hdnts=exp=1713093764~acl=/ksaquranlive/ksaquran.smil/*~hmac=ee41f6448ad0f4a6f88e831689959c2fe5da65ce6b2c6b399d5dfab5c6d81524
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",saudi
 https://live.kwikmotion.com/ksa1live/ksa1.smil/playlist_dvr.m3u8?hdnts=exp=1713083048~acl=/ksa1live/ksa1.smil/*~hmac=62573fc5de076c577e348fb168b34b3665743e91fdeb50dc05018d2704831da4
 
