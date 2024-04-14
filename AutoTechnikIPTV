@@ -31,6 +31,8 @@ http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/Pcbn8fx.jpg.jpg" group-title="News",Alqsa
 http://95.216.180.111:1935/live/68/index.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/Pcbn8fx.jpg.jpg" group-title="News",roya news
+https://roya-live.ercdn.net/royanews/royanews.m3u8?st=d3MokcdcRUsZH0Yg9O7TfQ&e=1713099855
 #EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/hiTHRb6.png" group-title="Entertainment",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Domestic",RAJ3EEN
@@ -50,6 +52,8 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8?playSessionId=17116b66-8d50-16bb-6884-46ea6cb48a29:c4fc9e30-e97c-2a68-8d0d-ed74c871187f&referrer=aHR0cHM6Ly93d3cubWFrYW4ub3JnLmlsL21ha2FuLWxpdmVfcGFnZS8=&clientTag=html5:v8.08
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="News",Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="News",Alaraby 2
+https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8?st=-amkehuyp0J_TjhAqh-7AA&e=1713099972
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Cartoon",AE | Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/variant.m3u8
 
