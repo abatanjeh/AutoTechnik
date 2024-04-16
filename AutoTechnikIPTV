@@ -31,8 +31,7 @@ http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/Pcbn8fx.jpg.jpg" group-title="News",Alqsa
 http://95.216.180.111:1935/live/68/index.m3u8
-#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/Pcbn8fx.jpg.jpg" group-title="News",roya news
-https://roya-live.ercdn.net/royanews/royanews.m3u8?st=d3MokcdcRUsZH0Yg9O7TfQ&e=1713099855
+#EXT
 #EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/hiTHRb6.png" group-title="Entertainment",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Domestic",RAJ3EEN
@@ -75,10 +74,8 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/6N6kChM.jpg" group-title="Entertainment",MBC Masr 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/guHFJyC.jpg" group-title="Domestic",mazaya
-https://channelsarabia.xyz/8_.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/e8OXA28.gif" group-title="Undefined",LBC
-http://zinachannels.zinamedia.net/ar-s/lbc-internatonal/index.m3u8
+
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/SHY7smo.jpg" group-title="News",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YxelwBp.jpg" group-title="Movies",Dubai One
@@ -122,8 +119,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="News",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Documentary",Al Jazeera Documentary,QA | Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 
@@ -154,8 +150,5 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",almashhad
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",quran tv
-https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/playlist_dvr.m3u8?hdnts=exp=1713093764~acl=/ksaquranlive/ksaquran.smil/*~hmac=ee41f6448ad0f4a6f88e831689959c2fe5da65ce6b2c6b399d5dfab5c6d81524
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",saudi
-https://live.kwikmotion.com/ksa1live/ksa1.smil/playlist_dvr.m3u8?hdnts=exp=1713083048~acl=/ksa1live/ksa1.smil/*~hmac=62573fc5de076c577e348fb168b34b3665743e91fdeb50dc05018d2704831da4
+
 
