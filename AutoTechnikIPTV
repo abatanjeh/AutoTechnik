@@ -19,7 +19,7 @@ http://htvmada.mada.ps:8888/maannews/index.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/VBOn2MH.png" group-title="Live",Raya TV
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Live",MAZAYA
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ra3utDl.png" group-title="Live",MAZAYA
 https://htvmada.mada.ps:4443/royalgroup/index.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/YeluYx2.jpg" group-title="Live",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
@@ -34,13 +34,14 @@ http://95.216.180.111:1935/live/68/index.m3u8
 #EXT
 #EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/hiTHRb6.png" group-title="Entertainment",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Domestic",RAJ3EEN
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9S6orld.png" group-title="Domestic",RAJ3EEN
 https://mn-nl.mncdn.com:443/palabroad/live/chunklist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UhFbbhd.jpeg" group-title="Domestic",Alsharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Religious",MECA
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/e8fUSeH.jpeg" group-title="Religious",MECA
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Religious",QURAN LIVE
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/TKf3ehT.png" group-title="Religious",QURAN LIVE
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
 
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Entertainment",Hala TV
