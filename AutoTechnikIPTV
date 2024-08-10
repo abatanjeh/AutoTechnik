@@ -62,8 +62,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8?st=BQl9AAhhzFEkBiYszOprXg&e=1710805341&rid=d009c8f8596e68faf3c7d5bdedab3c38&sid=wv11M-OA9k6FgFaF_5gInQ
 #EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/TMWr56N.png" group-title="Entertainment",almamlka
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Entertainment",ROYA DRAMA
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ramadan-2024/playlist.m3u8?st=BsbovYqVkAfGmwRPnFnXpQ&e=1710895568
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/CIBoJ7D.png" group-title="Entertainment",ROYA DRAMA
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8?st=eIICJjcA4wOVMS5dT74UvA&e=1723336640
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Entertainment",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8?filter=144_720
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PFHvn86.jpg" group-title="Entertainment",MBC 4
@@ -145,10 +145,14 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/YQGGQFT.png" group-title="News",Roya News
 https://roya-live.ercdn.net/royanews/royanews.m3u8?st=VteR38EXcSSVIM59ToovZg&e=1723326681
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/zoRWp6n.png" group-title="News",7aki munawa3
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8?st=uQFzjvP1d0eux2yoCXcJTA&e=1723337405
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/P3fZtHk.png" group-title="Documentary",Big World
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist.m3u8?st=9R4-_Uuy1fsyJIdOdi6gQA&e=1723242623
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/1OG1vtw.png" group-title="Entertainment",Adel Imam
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist.m3u8?st=SpIawrF1n8wY7bd2nFPRPA&e=1723242348
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/WjhHaST.png" group-title="Entertainment",Masrahyat
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat-vms/playlist.m3u8?st=0jQ6k7H7TIJhpv7pbomiuA&e=1723336743
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9RlGZNb.png" group-title="Live",Nablus Live 1
 https://flu.systemnet.tv/mix5/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9RlGZNb.png" group-title="Live",Nablus Live 2
