@@ -19,6 +19,8 @@ http://htvmada.mada.ps:8888/maannews/index.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/VBOn2MH.png" group-title="Live",Raya TV
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="PS" tvg-logo="" group-title="Live",Ramallah
+https://htvint.mada.ps/RamallahMunicipality/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ra3utDl.png" group-title="Live",MAZAYA
 https://htvmada.mada.ps:4443/royalgroup/index.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/YeluYx2.jpg" group-title="Live",Marah FM
