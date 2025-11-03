@@ -36,6 +36,8 @@ http://95.216.180.111:1935/live/68/index.m3u8
 #EXT
 #EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/hiTHRb6.png" group-title="Entertainment",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY;PS" tvg-logo="" group-title="Entertainment",BEIN
+https://htvint.mada.ps/alhouriyah3/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9S6orld.png" group-title="Domestic",RAJ3EEN
 https://mn-nl.mncdn.com:443/palabroad/live/chunklist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UhFbbhd.jpeg" group-title="Documentary",Alsharq Discovery
