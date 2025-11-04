@@ -70,7 +70,7 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/uPb48wR.jpg" group-title="Entertainment",MBC Masr 1
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/6N6kChM.jpg" group-title="Entertainment",MBC Masr 2
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
 
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/SHY7smo.jpg" group-title="News",Syria TV
