@@ -100,7 +100,7 @@ https://mn-nl.mncdn.com:443/elsharq_live/live/chunklist.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/kGopxNP.jpg" group-title="News",Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="" group-title="Religious",Iqraa
-https://jmc-live.ercdn.net/iqraa/iqraa_576p.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762292335/ei/Dx4KaZfHJJjRp-oP79fFqQw/ip/46.60.99.89/id/8sPvpxyCJmk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634278/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/maudio/1/bui/AdEuB5SOf9785HWK0r5X23dhilLD3KkehSZ0I_p3wm1XCjSvWU4f_2pR8ougZt_NDtvGQo6BgPBPROb3/spc/6b0G_E7rS3DuLKvRaJ2VMIJvWe2hSBSDT9nJ4pZ9oIaRoX4qIKFyaaKM1_6FSlEuORq0V9SaBgk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMLvnwFqyiAac0V-aS0njEKuMRzhdLJY52_BJX8N0rY5AiEAveYKX_Ne8rkQQE0L7FlaC5W_lDuTzrEB-7U4c6Mza1U%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="Religious",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/VYiG1Ad.png" group-title="Religious",Quran
