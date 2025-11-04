@@ -115,8 +115,8 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Documentary",ALSHARQ DISC
 
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/tIBVWeP.png" group-title="Documentary",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/tIBVWeP.png" group-title="Documentary",Al Sunna
+https://live.kwikmotion.com/ksasunnalive/ksasunna.smil/playlist_dvr.m3u8?hdnts=exp=1762271303~acl=/ksasunnalive/ksasunna.smil/*~hmac=87f7f5673587a7c7f81be6955c0c5bcf2e4ae8a77eba82dc94433e85e9d3fc26
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Cartoon",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
 
