@@ -143,12 +143,7 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat-vms/playlist
 https://flu.systemnet.tv/mix5/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9RlGZNb.png" group-title="Live",Nablus Live 2
 https://flu.systemnet.tv/mix33/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9RlGZNb.png" group-title="Live",Nablus Live 3
-https://flu.systemnet.tv/mix11/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9RlGZNb.png" group-title="Live",Nablus Live 4
-https://flu.systemnet.tv/mix22/index.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9RlGZNb.png" group-title="Live",Nablus Live 5
-https://htvint.mada.ps/nabluslive/index.m3u8
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/66GXSPi.png" group-title="Live",Quran Nablus
 https://streaming.zaytonatube.com:8081/holyquran/holyquran/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Txq2USj.png" group-title="Cartoon",CN
