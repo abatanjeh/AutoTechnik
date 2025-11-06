@@ -79,7 +79,7 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/g8PKws6.jpg" group-title="News",Sky News Arabiya
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/k2IDyvk.jpg" group-title="News",Alaraby
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8?orig=arabic&out=english,french,persian&default=&autoselect=no&line=70&position=50&align=center
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KE7pqAB.jpg" group-title="News",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -115,8 +115,7 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/UiUFFRZ.png" group-title="Documentary",ALSHARQ DISC
 
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/tIBVWeP.png" group-title="Documentary",Al Sunna
-https://live.kwikmotion.com/ksasunnalive/ksasunna.smil/playlist_dvr.m3u8?hdnts=exp=1762271303~acl=/ksasunnalive/ksasunna.smil/*~hmac=87f7f5673587a7c7f81be6955c0c5bcf2e4ae8a77eba82dc94433e85e9d3fc26
+
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Cartoon",MBC 3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 
