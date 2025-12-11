@@ -4,7 +4,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8?checkedby:iptvcat.com
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" group-title="News",Palestine Satellite Channel,Palestine Sattelite Channel
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/bYz6HUG.png" group-title="Domestic",Palestine Mubasher
