@@ -49,8 +49,6 @@ https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qll
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IFIwvos.jpg" group-title="Entertainment",Alaraby 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8?st=-amkehuyp0J_TjhAqh-7AA&e=1713099972
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Cartoon",AE | Majid TV
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/variant.m3u8
 
 #EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Entertainment",Ro'ya TV,ROYA TV
 https://royatv-live.daioncdn.net/royatv/royatv_1080p.m3u8
