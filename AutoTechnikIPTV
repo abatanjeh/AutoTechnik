@@ -65,7 +65,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/PFHvn86.jpg" group-title="Entertainment",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/uPb48wR.jpg" group-title="Entertainment",MBC Masr 1
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/6N6kChM.jpg" group-title="Entertainment",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
