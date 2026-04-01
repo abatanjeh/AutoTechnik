@@ -85,7 +85,7 @@ https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8?orig=arabic&o
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KE7pqAB.jpg" group-title="News",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FbA4zSx.png" group-title="News",AsharqNews
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+https://live-news.asharq.com/asharq.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/Id2jbQR.jpg" group-title="News",RT ِArabic
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
